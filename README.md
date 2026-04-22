@@ -2,8 +2,8 @@
 
 ## 📌 Descripción del Proyecto
 
-Este proyecto implementa un sistema de gestión de solicitudes de clientes para servicios tecnológicos.  
-Que permite registrar, consultar, actualizar y analizar solicitudes mediante una aplicación de consola desarrollada en C#.
+Este es proyecto de sistema de gestión de solicitudes de clientes para servicios.  
+Que permite registrar, consultar, actualizar y analizar solicitudes.
 
 El sistema utiliza estructuras como clases, enumeradores, listas y manipular los datos de forma eficiente.
 
